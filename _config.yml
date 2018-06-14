@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Stephen Holzman
+name: First Last
 
 # Short bio or description (displayed in the header)
-description: Charlottesville based developer.
+description: Charlottesville based creator.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars3.githubusercontent.com/u/40040385?s=200&v=4
 
 #
 # Flags below are optional
@@ -21,12 +21,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: github.com/computers4kids
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: stephenholz
+  twitter: c4kcho
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
