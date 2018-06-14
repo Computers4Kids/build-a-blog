@@ -18,4 +18,4 @@ If everything goes smoothly, in a few minutes you will have complete control of 
 
 GitHub is a platform for developing projects and managing them as they grow. You will need to [sign up for an account](https://github.com/join) if you don't have one already.
 
-![GitHub Sign Up Screenshot](/images/2018-06-04-github-signin.png "GitHub Sign Up Screenshot")
+![GitHub Sign Up Screenshot]({{site.baseurl}}/images/2018-06-04-github-signin.png "GitHub Sign Up Screenshot")
