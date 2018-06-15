@@ -19,3 +19,11 @@ If everything goes smoothly, in a few minutes you will have complete control of 
 GitHub is a platform for developing projects and managing them as they grow. You will need to [sign up for an account](https://github.com/join) if you don't have one already.
 
 ![GitHub Sign Up Screenshot]({{site.baseurl}}/images/2018-06-04-github-signin.png "GitHub Sign Up Screenshot")
+
+## Before starting up your blog, you will need to verify your account through the email GitHub sends to the address you used to sign up. Click the appropriate link in that email.
+
+### Step 2: Fork the build-a-blog Project
+
+*Fork* is a term that effectively means to copy. Forking someone else's project *repository* will create a new *repository* that you have full control over.
+
+[C4K's build-a-blog repository is located here](https://github.com/Computers4Kids/build-a-blog).
