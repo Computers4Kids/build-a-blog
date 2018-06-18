@@ -28,7 +28,7 @@ The *front matter* section is surrounded by triple dashes. You can fill this out
 
 Pick a YouTube video and click the share button. Instead of just taking the link, we're going choose the Embed option. Copy the little bits of HTML into your new file.
 
-![YouTube embed Screenshot]({{site.baseurl}}/images/22018-06-18-embed-youtube-screenshot.png "YouTube embed Screenshot")
+![YouTube embed Screenshot]({{site.baseurl}}/images/2018-06-18-embed-youtube-screenshot.png "YouTube embed Screenshot")
 
 ## Step 4: Commit your new post
 
