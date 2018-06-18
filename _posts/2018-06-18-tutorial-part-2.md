@@ -30,7 +30,7 @@ Scroll down to the bottom of a file when you are done editing to the *commit* op
 
 ![Commit Screenshot]({{site.baseurl}}/images/2018-06-18-commit-screenshot.png "GitHub Commit Screenshot")
 
-You can provide a description of the changes you've made, or accept the defaults. Click the green button to commit.
+You can provide a description of the changes you've made, or accept the defaults. Click the green button to commit. It may take a minute for the site to update.
 
 ## Step 3: Upload an image
 
