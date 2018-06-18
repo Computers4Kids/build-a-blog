@@ -3,7 +3,7 @@ layout: post
 title: Part 2&#58; Editing Your Own Website
 ---
 
-[Part 1 of this series covered setting up a default website through GitHub]({{site.baseurl}}/tutorial-part-1/). This post covers editing files on GitHub, one way to make the website truly your own.
+[Part 1 of this series covered setting up a default website through GitHub]({{site.baseurl}}/tutorial-part-1/). This post covers editing files on GitHub, one way to make the website truly your own. Remember that you can check where your website is displayed in the *repository* settings tab.
 
 ### What This Post Covers
 
@@ -42,7 +42,7 @@ Underneath the hood, images displayed on a page are always linked to a file. [Lo
 
 ## Step 4: Fill out other parts of the _config.yml file
 
-There are many other parts of the config file you may want to change. Go ahead and experiment with some of files. Perhaps your own social media? A custom avatar? Anything as long as you get some practice editing files!
+There are many other parts of the config file you may want to change. Perhaps your own social media? A custom avatar? Anything as long as you get some practice editing files!
 
 ## Step 5: Fill out the about.md file
 
@@ -50,3 +50,4 @@ This file controls everything on your about page. The default text is pretty lam
 
 ![About Markdown Screenshot]({{site.baseurl}}/images/2018-06-18-about-markdown-screenshot.png "About Markdown Screenshot")
 
+The markdown files begin with a section called *front matter* that describes how to process the file. For now, leave it as is and experiment with edits to what comes below that.
