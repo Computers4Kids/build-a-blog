@@ -14,14 +14,14 @@ If everything goes smoothly, in a few minutes you will have complete control of 
 * How to publish a blog post
 * An overview of how HTML and CSS work
 
-## What This Post Covers
+### What This Post Covers
 
 * Sign up for GitHub
 * Forking a GitHub repository
 * Serving the files in your repository as a website
 * The types of files you might encounter
 
-### Step 1: Sign Up For a GitHub Account
+## Step 1: Sign Up For a GitHub Account
 
 GitHub is a platform for developing projects and managing them as they grow. You will need to [sign up for an account](https://github.com/join) if you don't have one already.
 
@@ -29,7 +29,7 @@ GitHub is a platform for developing projects and managing them as they grow. You
 
 **Before starting up your blog, you will need to verify your account through the email GitHub sends to the address you used to sign up. Click the appropriate link in that email.**
 
-### Step 2: Fork the build-a-blog Project
+## Step 2: Fork the build-a-blog Project
 
 *Fork* is a term that effectively means to copy. Forking someone else's project *repository* will create a new *repository* that you have full control over.
 
@@ -39,7 +39,7 @@ GitHub is a platform for developing projects and managing them as they grow. You
 
 Click the fork button to get your copy. This will take you to your new repository when GitHub is done setting it up.
 
-### Step 3: Tell GitHub your repository is a website
+## Step 3: Tell GitHub your repository is a website
 
 Hosting websites is just one kind of project GitHub can be used for. We have to tell it this project is a website. Click the settings tab on your repository page and scroll down to the GitHub Pages section.
 
@@ -49,7 +49,7 @@ Under Source, click where it says None. Set the source to master branch, then cl
 
 ![Settings Screenshot]({{site.baseurl}}/images/2018-06-18-settings-screenshot-2.png "GitHub Pages Settings Screenshot")
 
-### Step 4: Explore the default website a bit!
+## Step 4: Explore the default website a bit!
 
 Both the files in the repository and what you find at the link. It's ok not to know how everything works just yet!
 
