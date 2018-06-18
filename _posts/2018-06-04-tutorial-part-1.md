@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Part 1&#58; Build Your Own Website 
+title: Part 1&#58; Setup Your Own Website 
 ---
 
 So much is happening on the internet! You can keep up with your friends, watch movies, run a business, and read about anything you want! While most people are consumers of the internet, this series of posts will help you get started building your own website hosted for free using GitHub pages.
