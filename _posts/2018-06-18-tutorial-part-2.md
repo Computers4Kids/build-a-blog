@@ -3,7 +3,7 @@ layout: post
 title: Part 2&#58; Editing Your Own Website
 ---
 
-[Part 1 of this series covered setting up a default website through GitHub]({{site.baseurl}}/build-a-blog/tutorial-part-1/). This post covers editing files on GitHub, one way to make the website truly your own.
+[Part 1 of this series covered setting up a default website through GitHub]({{site.baseurl}}/tutorial-part-1/). This post covers editing files on GitHub, one way to make the website truly your own.
 
 ### What This Post Covers
 
