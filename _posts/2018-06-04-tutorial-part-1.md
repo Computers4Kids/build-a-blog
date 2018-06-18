@@ -55,9 +55,9 @@ Both the files in the repository and what you find at the link. It's ok not to k
 
 Getting familiar with where things exist is the first step to learning what things do. Try to find these specific file types before moving on:
 
-* HTML: describes how content on a page is organized. Things like words, images, and panels.
+* HTML: describes the content on a page and how it is organized. Things like words, images, boxes, and buttons.
 * SCSS (CSS): describes how content on a page is displayed. Things like color, fonts, and spacing.
-* MD (markdown): Markdown feels like magic. You're still describing how content on a page should be like HTML, but without having to worry about those tedious tags all the time unless you want to.
+* MD (markdown): Markdown feels like magic. You're still describing how content on a page should be like HTML, but without having to worry about those tedious tags all the time unless you want to. GitHub converts markdown into HTML when serving your site.
 * YML: Known as Yet Another Markup Language or YAML Ain't Markup Language for somewhat humorous reasons. There's only one of these, but it's an important one for managing your website.
 
 [Part 2 continues with how to edit these files]({{site.baseurl}}/tutorial-part-2/)
