@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Build Your Own Website&#58; Part 1
+title: Part 1&#58; Build Your Own Website 
 ---
 
 So much is happening on the internet! You can keep up with your friends, watch movies, run a business, and read about anything you want! While most people are consumers of the internet, this series of posts will help you get started building your own website hosted for free using GitHub pages.
@@ -60,4 +60,4 @@ Getting familiar with where things exist is the first step to learning what thin
 * MD (markdown): Markdown feels like magic. You're still describing how content on a page should be like HTML, but without having to worry about those tedious tags all the time unless you want to.
 * YML: Known as Yet Another Markup Language or YAML Ain't Markup Language for somewhat humorous reasons. There's only one of these, but it's an important one for managing your website.
 
-[Part 2 continues with how to edit these files](https://computers4kids.github.io/build-a-blog/tutorial-part-2/)
+[Part 2 continues with how to edit these files]({{site.baseurl}}/build-a-blog/tutorial-part-2/)
